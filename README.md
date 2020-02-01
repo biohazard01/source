@@ -8,6 +8,14 @@ MAX STAKE AGE UNLIMITED
 RPC PORT: 56646
 PORT: 56647
 
+*before compile, create obj folder and clean leveldb if needed
+
+cd leveldb
+leveldb make clean
+
+on source directory:
+mkdir obj
+
 
 
 
